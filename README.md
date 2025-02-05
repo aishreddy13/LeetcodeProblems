@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0136-single-number) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
+| [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
+| [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 ## Counting
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0056-merge-intervals) |
+| [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 ## Bit Manipulation
 |  |
 | ------- |
