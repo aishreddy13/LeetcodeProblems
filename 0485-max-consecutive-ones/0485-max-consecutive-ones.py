@@ -6,6 +6,7 @@ class Solution:
             if nums[x] == 1:
                 sum_1 +=1
             else:
+                longest_1 = max(sum_1, longest_1) 
                 sum_1 = 0
-            longest_1 = max(sum_1, longest_1) 
-        return longest_1    
+            
+        return max(longest_1, sum_1)   
