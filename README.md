@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
