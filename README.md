@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
