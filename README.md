@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aishreddy13/LeetcodeProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
@@ -58,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
