@@ -1,21 +1,29 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
-        ans = []
-        queueP = [(-count, char) for char, count in Counter(s).items()]
-        heapify(queueP)
+        char_counts = Counter(s)
+        max_count, letter = 0, ''
+        for char, count in char_counts.items():
+            if count > max_count:
+                max_count = count
+                letter = char
+        if max_count > (len(s) + 1) // 2:
+            return ""
+        ans = [''] * len(s)
+        index = 0
 
-        while queueP:
-            count_first, char_first = heappop(queueP)
-            if not ans or char_first != ans[-1]:
-                ans.append(char_first)
-                if count_first + 1 != 0:
-                    heappush(queueP, (count_first + 1, char_first))
-            else:
-                if not queueP: return ''
-                count_second, char_second = heappop(queueP)
-                ans.append(char_second)
-                if count_second + 1 != 0:
-                    heappush(queueP, (count_second + 1, char_second))
-                heappush(queueP, (count_first, char_first))
+        # Place the most frequent letter
+        while char_counts[letter] != 0:
+            ans[index] = letter
+            index += 2
+            char_counts[letter] -= 1
+
+        # Place rest of the letters in any order
+        for char, count in char_counts.items():
+            while count > 0:
+                if index >= len(s):
+                    index = 1
+                ans[index] = char
+                index += 2
+                count -= 1
+
         return ''.join(ans)
-        
