@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
