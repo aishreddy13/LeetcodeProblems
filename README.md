@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0436-find-right-interval](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0436-find-right-interval](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0436-find-right-interval) |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aishreddy13/LeetcodeProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0436-find-right-interval](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0436-find-right-interval) |
 | [0792-binary-search](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
