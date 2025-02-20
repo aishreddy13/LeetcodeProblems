@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
+| [0874-backspace-string-compare](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0874-backspace-string-compare) |
 | [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [1023-time-based-key-value-store](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
 ## Counting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0874-backspace-string-compare) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aishreddy13/LeetcodeProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
+| [0874-backspace-string-compare](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0874-backspace-string-compare](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
