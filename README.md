@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0436-find-right-interval](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
@@ -124,4 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
