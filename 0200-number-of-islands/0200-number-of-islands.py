@@ -2,30 +2,23 @@ class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         if not grid:
             return 0
+        
+        rows, cols = len(grid),  len(grid[0])
+        count = 0
 
-        nr = len(grid)
-        nc = len(grid[0])
-        num_islands = 0
-
-        for r in range(nr):
-            for c in range(nc):
-                if grid[r][c] == "1":
-                    num_islands += 1
-                    grid[r][c] = 0  # mark as visited
-                    neighbors = []
-                    neighbors.append((r, c))
-                    while neighbors:
-                        row, col = neighbors.pop(0)
-                        if row - 1 >= 0 and grid[row - 1][col] == "1":
-                            neighbors.append((row - 1, col))
-                            grid[row - 1][col] = "0"
-                        if row + 1 < nr and grid[row + 1][col] == "1":
-                            neighbors.append((row + 1, col))
-                            grid[row + 1][col] = "0"
-                        if col - 1 >= 0 and grid[row][col - 1] == "1":
-                            neighbors.append((row, col - 1))
-                            grid[row][col - 1] = "0"
-                        if col + 1 < nc and grid[row][col + 1] == "1":
-                            neighbors.append((row, col + 1))
-                            grid[row][col + 1] = "0"
-        return num_islands
+        def dfs(r, c):
+            if r <0 or c <0 or r >= rows or c >= cols or grid[r][c] == '0':
+                return
+            grid[r][c] = '0'
+            dfs( r+1, c)
+            dfs(r-1, c)
+            dfs(r,c+1)
+            dfs(r,c-1)
+        
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == '1':
+                    count +=1
+                    dfs(i,j)
+        
+        return count
