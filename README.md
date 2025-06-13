@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0046-permutations) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
