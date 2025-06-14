@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
