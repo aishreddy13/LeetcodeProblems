@@ -3,7 +3,7 @@ class Solution:
         if n == 1:
             return "1"
         res = "1"
-        for _ in range(2, n+1):
+        for _ in range(1, n):
             temp = ""
             count = 1
             for i in range(len(res)):
