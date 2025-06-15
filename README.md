@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
 ## Queue
@@ -160,8 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0146-lru-cache) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
