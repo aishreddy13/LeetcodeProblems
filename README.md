@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/aishreddy13/LeetcodeProblems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
