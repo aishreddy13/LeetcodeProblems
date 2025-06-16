@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0874-backspace-string-compare) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0874-backspace-string-compare) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aishreddy13/LeetcodeProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
+| [0412-fizz-buzz](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aishreddy13/LeetcodeProblems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
