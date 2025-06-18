@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
