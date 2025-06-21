@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0792-binary-search) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0436-find-right-interval) |
 | [0792-binary-search](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
