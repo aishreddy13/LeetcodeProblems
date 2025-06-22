@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0792-binary-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0436-find-right-interval) |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0974-reorder-data-in-log-files](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aishreddy13/LeetcodeProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -231,4 +236,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
