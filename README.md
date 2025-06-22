@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aishreddy13/LeetcodeProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
 ## Queue
 |  |
@@ -209,4 +211,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
