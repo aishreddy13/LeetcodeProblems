@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0412-fizz-buzz) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0198-house-robber) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
