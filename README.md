@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0436-find-right-interval) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/aishreddy13/LeetcodeProblems/tree/master/0837-most-common-word) |
 | [1023-time-based-key-value-store](https://github.com/aishreddy13/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
